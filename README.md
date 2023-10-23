@@ -1,4 +1,4 @@
-###Adapter Pattern
+## Adapter Pattern
 
 Plugging Devices into Power Outlets
 
